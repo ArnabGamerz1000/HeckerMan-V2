@@ -11,7 +11,7 @@ Change config.json with your bot token
 
 cd HeckerMan-V2
 
-npm install teleraf 
+npm install telegraf 
 
 npm install puppeteer
 
