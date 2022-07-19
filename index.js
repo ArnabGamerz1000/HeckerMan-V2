@@ -171,6 +171,11 @@ catch(e){
       })();
 })
 
+bot.command('payg', ctx => {
+  console.log(ctx.from)
+bot.telegram.sendMessage(ctx.chat.id, 'Currently Unavailable⚠️', {
+})
+})
 
 try{
     bot.launch();
