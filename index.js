@@ -1,6 +1,6 @@
 const { Telegraf } = require('telegraf');
 const puppeteer = require('puppeteer');
-onst { PuppeteerScreenRecorder } = require('puppeteer-screen-recorder');
+const { PuppeteerScreenRecorder } = require('puppeteer-screen-recorder');
 const fullPageScreenshot = require("puppeteer-full-page-screenshot").default;
 const http = require('https');
 var request = require('request');
