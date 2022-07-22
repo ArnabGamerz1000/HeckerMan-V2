@@ -1,6 +1,8 @@
 # HeckerMan-V2
 This bot's idea was taken from @fusemcdev. 
 
+Please Consider Using The #noob branch if you dont wanna install these requirements and other stuff
+
 Deployment ( Local ) : 
 
 Install NodeJS first
